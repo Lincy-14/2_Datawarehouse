@@ -1,0 +1,11 @@
+songplay_id,start_time,user_id,level,song_id,artist_id,session_id,location,user_agent
+0,2018-11-09 17:55:00.796,80,paid,SOAOJYY12A58A7B2F9,ARFVYJI1187B9B8E13,416,"Portland-South Portland, ME","""Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/36.0.1985.143 Safari/537.36"""
+1,2018-11-21 21:56:47.796,15,paid,SOZCTXZ12AB0182364,AR5KOSW1187FB35FF4,818,"Chicago-Naperville-Elgin, IL-IN-WI","""Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/36.0.1985.125 Chrome/36.0.1985.125 Safari/537.36"""
+3,2018-11-03 21:14:28.796,49,free,SOFVOQL12A6D4F7456,ARPN0Y61187B9ABAA0,195,"San Francisco-Oakland-Hayward, CA",Mozilla/5.0 (Windows NT 5.1; rv:31.0) Gecko/20100101 Firefox/31.0
+4,2018-11-08 15:01:57.796,29,paid,SOFVOQL12A6D4F7456,ARPN0Y61187B9ABAA0,372,"Atlanta-Sandy Springs-Roswell, GA","""Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_4) AppleWebKit/537.78.2 (KHTML, like Gecko) Version/7.0.6 Safari/537.78.2"""
+5,2018-11-13 17:28:33.796,97,paid,SOIBHYW12AB0188F49,ARWNARC122BCFCAFEB,537,"Lansing-East Lansing, MI","""Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/37.0.2062.94 Safari/537.36"""
+6,2018-11-04 07:31:31.796,25,paid,SOHWVJJ12AB0185F6D,ARASYMJ1187B9ACAF2,128,"Marinette, WI-MI","""Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/36.0.1985.143 Safari/537.36"""
+10,2018-11-07 01:42:43.796,8,free,SOWTZNU12AB017EADB,AR6NYHH1187B9BA128,181,"Phoenix-Mesa-Scottsdale, AZ","""Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/35.0.1916.153 Safari/537.36"""
+14,2018-11-23 12:08:33.796,80,paid,SOBBHVN12A6702162D,ARFSZGT1187B9B1E44,848,"Portland-South Portland, ME","""Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/36.0.1985.143 Safari/537.36"""
+15,2018-11-16 16:27:21.796,90,free,SOMUJKC12AB01865AD,AR9RYZP1187FB36C6A,148,"Pensacola-Ferry Pass-Brent, FL",Mozilla/5.0 (X11; Linux x86_64; rv:31.0) Gecko/20100101 Firefox/31.0
+16,2018-11-30 10:42:09.796,36,paid,SOTNHIP12AB0183131,ARD46C811C8A414F3F,998,"Janesville-Beloit, WI","""Mozilla/5.0 (Windows NT 5.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/36.0.1985.143 Safari/537.36"""
